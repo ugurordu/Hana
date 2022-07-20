@@ -1,0 +1,8 @@
+COLUMN TABLE "T_CUSTOMERS_CY" (
+    "Customer_ID" INTEGER,
+    "Name" NVARCHAR(100),
+    "City" NVARCHAR(100),
+    "Value" DECIMAL, 
+    "Date" DATE,
+    "Year" NVARCHAR(4)
+)

@@ -1,0 +1,16 @@
+{
+  "role": {
+    "name": "FULL_CONTROL_ROLE#",
+    "object_privileges": [
+      {
+        "name": "T_TEST_HANA_CLOUD",
+        "type": "TABLE",
+        "privileges": [
+          "DELETE",
+          "INSERT",
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}

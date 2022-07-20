@@ -1,0 +1,6 @@
+COLUMN TABLE "T_TEST_HANA_CLOUD" (
+"Order_ID" NVARCHAR(100),
+"Customer" NVARCHAR(100),
+"Quantity" INTEGER,
+"City" NVARCHAR(100)
+)
